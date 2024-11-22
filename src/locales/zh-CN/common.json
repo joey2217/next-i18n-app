@@ -1,0 +1,11 @@
+{
+  "welcome": "欢迎",
+  "title": "Next.js 15 多语言示例",
+  "description": "使用 Next.js 15 和 i18next 创建多语言应用程序",
+  "about": "关于",
+  "welcomeAbout": "欢迎到关于页面",
+  "light": "浅色",
+  "dark": "深色",
+  "system": "系统",
+  "toggleTheme": "修改主题"
+}

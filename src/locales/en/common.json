@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome",
+  "title": "Next.js 15 Internationalization (i18n) Example",
+  "description": "This is a Next.js 15 Internationalization (i18n) example.",
+  "about": "About",
+  "welcomeAbout": "Welcome to About",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "toggleTheme": "Toggle Theme"
+}
